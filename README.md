@@ -1,1 +1,1 @@
-# ЖМИ НА КНОПКУ [![Header](https://github.com/psinyugin/psinyugin.github.io/blob/main/assets/1653006996_38-kartinkof-club-p-kartinka-knopka-schastya-43.jpg)](https://psinyugin.github.io)
+[![Header](https://github.com/psinyugin/psinyugin.github.io/blob/main/assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-03-18%20%D0%B2%2023.24.28.png)](https://psinyugin.github.io)
